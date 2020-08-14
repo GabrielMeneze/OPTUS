@@ -1,6 +1,6 @@
 --DML
 INSERT INTO estilo (nome) VALUES ('Sertanejo');
-INSERT INTO artistas (nome) VALUES ('Claudia Leite');
+INSERT INTO artistas (nome) VALUES ('Bryan');
 
 
 --DQL CONSULTA SIMPLES 
